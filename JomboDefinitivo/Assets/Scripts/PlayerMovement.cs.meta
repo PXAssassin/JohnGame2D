@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 97eafabbdfdb58643aab3526233cc245
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BulletPrefab: {fileID: 2405292317697729479, guid: e91e456760d1a204ba6f88e1196e9e98, type: 3}
+  - saltoSonido: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
